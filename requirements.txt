@@ -1,0 +1,4 @@
+selenium
+openai
+pandas
+PyPDF2
